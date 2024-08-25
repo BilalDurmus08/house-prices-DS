@@ -1,6 +1,6 @@
 MSSubClass: Identifies the type of dwelling involved in the sale.	
 
-        20	1-STORY 1946 & NEWER ALL STYLES
+        20	1-STORY 1946 & NEWER ALL STYLESgr
         30	1-STORY 1945 & OLDER
         40	1-STORY W/FINISHED ATTIC ALL AGES
         45	1-1/2 STORY - UNFINISHED ALL AGES
